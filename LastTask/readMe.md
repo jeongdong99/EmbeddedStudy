@@ -10,3 +10,4 @@
 2. 버튼 클릭하면 문 열리고 닫히기가 2번 동작
 
 
+![image](https://user-images.githubusercontent.com/93365714/230715743-87f90a6b-913c-42ac-999b-658acbc40204.png)
